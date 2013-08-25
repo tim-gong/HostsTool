@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostsTool", "HostsTool\HostsTool.csproj", "{EE087638-BA5F-4A54-9FB4-936AD7BEC70B}"
+EndProject
+Global
+	GlobalSection(PowerDesigner) = preSolution
+		HasSWS = 1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE087638-BA5F-4A54-9FB4-936AD7BEC70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE087638-BA5F-4A54-9FB4-936AD7BEC70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE087638-BA5F-4A54-9FB4-936AD7BEC70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE087638-BA5F-4A54-9FB4-936AD7BEC70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
